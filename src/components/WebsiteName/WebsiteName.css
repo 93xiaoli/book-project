@@ -1,0 +1,17 @@
+.Aptly {
+    font-size: 33px;
+    padding-top: 10px;
+}
+
+.Aptly a {
+    color: black;
+    text-decoration: none;
+}
+
+.Named {
+    font-size: 16px;
+    position: relative;
+    top: -30px;
+    color: black;
+    text-decoration: none;
+}

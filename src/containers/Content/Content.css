@@ -1,0 +1,30 @@
+.Content {
+    margin: 0 auto;
+    width: 95%;
+    text-align: center;
+}
+
+.Button {
+    padding: 16px;
+    font-size: 1.2em;
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+    width: 100px;
+}
+
+.Button:hover {
+    background-color: #e7e7e7;
+}
+
+.List {
+    float: left;
+    width: 50%;
+    height: 300px;
+    overflow-y: auto;
+}
+
+.Result {
+    float: left;
+    width: 50%;
+}

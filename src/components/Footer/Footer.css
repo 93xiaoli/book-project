@@ -1,0 +1,20 @@
+.Footer {
+    width: 90%;
+}
+
+.CopyRight {
+    font-family: "Hiragino Kaku Gothic ProN";
+    font-size: 11px;
+    text-align: left;
+}
+
+.Logo {
+    float: right;
+}
+
+.ColunmLeft {
+    width: 60%;
+    float: left;
+    padding-left: 16px;
+    font-size: 14px;
+}

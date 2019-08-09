@@ -1,0 +1,40 @@
+.BookElement {
+    width: 90%;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 10px auto;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.BookElement:hover,
+.BookElement:active {
+    background-color: #e7e7e7;
+}
+
+.Author {
+    color: #968B87;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.Title {
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: .3rem;
+}
+
+.Fig {
+    overflow: auto;
+}
+
+.Image {
+    display: block;
+    height: 80px;
+    object-fit: cover;
+    transition: all .3s; 
+    float: left;
+}
