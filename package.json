@@ -1,7 +1,7 @@
 {
   "name": "book-project",
   "version": "0.1.0",
-  "homepage": "http://93xiaoli.github.io/book-project",
+  "homepage": "https://93xiaoli.github.io/book-project/",
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.2",
